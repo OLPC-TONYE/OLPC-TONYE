@@ -18,7 +18,7 @@
                 }
                 h2{
                     position: relative;
-                    font-size: 20vw;
+                    font-size: 15vw;
                     background: #2f2f62;
                     color: white;
                     -webkit-text-stroke: 0.3vw #383d52;
